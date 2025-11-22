@@ -76,8 +76,6 @@ function savePartials() {
 async function main() {
     for (let i = progress; i < addresses.length; i++) {
         const addr = addresses[i];
-        console.log(`(${i + 1}/${addresses.length}) Geocoding: ${addr.street} ${addr.building}`);
-
         const coords = await geocode(addr);
 
         const record = {
@@ -90,16 +88,23 @@ async function main() {
 
         if (coords.lat != null && coords.lng != null) {
             withCoords.push(record);
+            console.log(`[FOUND] ${addr.street} ${addr.building} → lat: ${coords.lat}, lng: ${coords.lng}`);
         } else {
             withoutCoords.push(record);
+            console.log(`[UNKNOWN] ${addr.street} ${addr.building}`);
         }
+
+        // --- Статистика після кожного будинку ---
+        const totalChecked = withCoords.length + withoutCoords.length;
+        const percentFound = ((withCoords.length / totalChecked) * 100).toFixed(2);
+        console.log(`✅ Found: ${withCoords.length} | ❌ Unknown: ${withoutCoords.length} | % Found: ${percentFound}%\n`);
 
         // save state after each address
         savePartials();
         saveProgress(i + 1);
 
         // пауза між запитами
-        await new Promise(r => setTimeout(r, 0));
+        await new Promise(r => setTimeout(r, 1200));
     }
 
     console.log("\n=== Геокодування завершено ===");
