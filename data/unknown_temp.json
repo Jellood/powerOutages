@@ -1727,5 +1727,257 @@
     "group": "4.1",
     "lat": null,
     "lng": null
+  },
+  {
+    "street": "Варшавська-Чорновола",
+    "building": "101",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Величковського",
+    "building": "59,61,62,",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Величковського",
+    "building": "61,62",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "6",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "6/35",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "14",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "18",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "22",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "22-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "24",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "26",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "26-36",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "28",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "28-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "32",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "34",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "34-36",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "36",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "38",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "40",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського",
+    "building": "42",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вернадського-Драгана",
+    "building": "1",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Виговського",
+    "building": "49,А",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Виговського- 7-й Скнилівський провулок",
+    "building": "7",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Винниченка",
+    "building": "30,А",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вишиваного В. пл.",
+    "building": "3",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Вишиваного В. пл.",
+    "building": "4",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Відпочинок КСТ",
+    "building": "16",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Відпочинок КСТ",
+    "building": "24",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
   }
 ]
