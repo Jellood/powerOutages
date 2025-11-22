@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Lviv Map – Houses</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+        }
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+<div id="map"></div>
+
+<script>
+    async function loadAndPlot() {
+        const res = await fetch("./data/with_coords_temp.json");
+        const data = await res.json();
+
+        const map = L.map("map").setView([49.8419, 24.0315], 12);
+
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            maxZoom: 19,
+        }).addTo(map);
+
+        data.forEach(obj => {
+            if (obj.lat == null || obj.lng == null) return;
+
+            const marker = L.circleMarker([obj.lat, obj.lng], {
+                radius: 6,
+                fillColor: "red",
+                fillOpacity: 0.9,
+                color: "#000",
+                weight: 1
+            }).addTo(map);
+
+            marker.bindPopup(
+                `<b>${obj.street} ${obj.building}</b><br>Group: ${obj.group}`
+            );
+        });
+    }
+
+    loadAndPlot();
+</script>
+</body>
+</html>

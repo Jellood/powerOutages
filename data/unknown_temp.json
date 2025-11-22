@@ -1,0 +1,1731 @@
+[
+  {
+    "street": "700 річчя Львова",
+    "building": "2-Б",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Автобусник КСТ",
+    "building": "6",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Академіка Катерини Ющенко",
+    "building": "3",
+    "group": "3.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Академіка Катерини Ющенко",
+    "building": "5",
+    "group": "3.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Академіка Катерини Ющенко",
+    "building": "7",
+    "group": "3.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Академіка Катерини Ющенко",
+    "building": "9",
+    "group": "3.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "20",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "22",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "22/3",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "24",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "26",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "28",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "30",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "32",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "32/1",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "32/2",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "34",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "36",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Ангеловича А. митр.",
+    "building": "38",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "2",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "3",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "4",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "4-А",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "5",
+    "group": "5.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "5-А",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "5-б",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "6",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "11",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "14",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "20-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "20-Б",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "20-В",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "22",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "22-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "24",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "24-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "24-Б",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "26",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "26/1",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "28",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "30",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича Б.",
+    "building": "32",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича-Трильовського",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Антонича-Трильовського",
+    "building": "29",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Аральська",
+    "building": "6ПIД",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бігова СТ Троянда",
+    "building": "4",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бігова СТ Троянда",
+    "building": "15",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бігова СТ Троянда",
+    "building": "41",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бігова СТ Троянда",
+    "building": "41-А",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бігова СТ Троянда",
+    "building": "42",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "18",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська восьма",
+    "building": "22",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "3",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "9",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "11",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "14",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "15",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "17",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "21",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "24",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "28",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "30",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "31",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "32",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "32-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "34",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "37",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "38",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "39",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "40",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "42",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська друга",
+    "building": "43",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "6",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "16-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "23",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "29",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "31",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "33",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "38",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "40",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "42",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "43",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "45",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська п'ята",
+    "building": "409",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "6",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "12-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "18",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "28",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "28-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "30",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська перша",
+    "building": "32",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "3",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "15",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "17",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "27",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "29",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "31",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська сьома",
+    "building": "32",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "1",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "2-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "5",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "9",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "15",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "21",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "22",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "27",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "28",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "30",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "33",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "36",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "38",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "40",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська третя",
+    "building": "46",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "9",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "10-Б",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "11",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "14",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "15-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "22",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "23",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "25",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "27",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "29",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "31",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "33",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "34",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "35",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "38",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "40",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "42",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "42-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "43",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "47",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "49",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "53",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "54",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "58",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "60",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "62",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська четверта",
+    "building": "64",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "3",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "11",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "12",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "14",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "16",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "17",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "18",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "19",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "20",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "21",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "29",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Білогорська шоста",
+    "building": "33",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "1-А",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "3",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "8",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "9",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "11",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "15",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бічна Радість",
+    "building": "17",
+    "group": "6.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "2",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "3",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "4",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "5",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "6",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "7",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "8",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "9",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "9-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "10",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "11",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "11-А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Богомольця О. акад.",
+    "building": "15",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бойківська",
+    "building": "28,28А",
+    "group": "1.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "1",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "2",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "3",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "4",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "5",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "7",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "8",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "9",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "10",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "11",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "12",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "15",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "15-А",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "16",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "16-А",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "16-Б",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "17",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "18",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "18-А",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "19",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "20",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "21",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "22",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "23",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "25",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "29-А",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "31",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "33",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "35",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "35-А",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "37",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Болбочана П. полк.",
+    "building": "39",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Бр.Рогатинців - Староєврейська",
+    "building": "12",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Братів Рогатинців",
+    "building": "14,прим.6",
+    "group": "2.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Будівельник-Сад",
+    "building": "1",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Валова-Галицька",
+    "building": "2",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Валова-Галицька",
+    "building": "2,4,8",
+    "group": "unknown",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "street": "Варшавська",
+    "building": "135,135А",
+    "group": "4.1",
+    "lat": null,
+    "lng": null
+  }
+]
