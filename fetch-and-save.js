@@ -1,5 +1,5 @@
 import puppeteer from "puppeteer";
-import { writeFileSync } from "fs";
+import {writeFileSync} from "fs";
 
 // Parse "Група 1.1. Електроенергії немає з 20:30 до 24:00."
 function parseLine(line) {
@@ -9,19 +9,18 @@ function parseLine(line) {
     const group = groupMatch[1];
 
     if (line.includes("Електроенергія є")) {
-        return { group, intervals: [] };
+        return {group, intervals: []};
     }
 
     const intervals = [...line.matchAll(/з\s*(\d{2}:\d{2})\s*до\s*(\d{2}:\d{2})/g)]
-        .map(([_, from, to]) => ({ from, to }));
+        .map(([_, from, to]) => ({from, to}));
 
-    return { group, intervals };
+    return {group, intervals};
 }
 
 async function fetchSchedule() {
     const browser = await puppeteer.launch({
-        headless: "new",
-        args: ["--no-sandbox", "--disable-setuid-sandbox"]
+        headless: "new", args: ["--no-sandbox", "--disable-setuid-sandbox"]
     });
 
     const page = await browser.newPage();
@@ -29,9 +28,7 @@ async function fetchSchedule() {
         waitUntil: "networkidle0"
     });
 
-    const lines = await page.$$eval(".power-off__text p", elements =>
-        elements.map(e => e.textContent.trim())
-    );
+    const lines = await page.$$eval(".power-off__text p", elements => elements.map(e => e.textContent.trim()));
 
     await browser.close();
 
