@@ -3,10 +3,10 @@ import {writeFileSync} from "fs";
 
 // Parse "Група 1.1. Електроенергії немає з 20:30 до 24:00."
 function parseLine(line) {
-    const groupMatch = line.match(/Група\s+([\d.]+)/);
+    const groupMatch = line.match(/Група\s+(\d+\.\d+)/);
     if (!groupMatch) return null;
 
-    const group = groupMatch[1];
+    const group = groupMatch ? groupMatch[1] : null;
 
     if (line.includes("Електроенергія є")) {
         return {group, intervals: []};
