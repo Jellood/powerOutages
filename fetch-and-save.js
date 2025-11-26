@@ -58,6 +58,3 @@ async function update() {
 
 // first run
 update();
-
-// repeat every 10 minutes
-setInterval(update, 10 * 60 * 1000);
